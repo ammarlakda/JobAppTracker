@@ -1,0 +1,3 @@
+API Key = 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
+Groq = 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
+Gemini = AIzaSyB7-l9H0M8dwDgg2zxyWiElVDJ6Gz9Lh_k
