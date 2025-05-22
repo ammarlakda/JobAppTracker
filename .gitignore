@@ -1,3 +1,18 @@
+# Secrets
 .env
-token.json
 credentials.json
+token.json
+
+# Python virtual environment
+gemini-env/
+venv/
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# __pycache__ and compiled files
+__pycache__/
+*.pyc
